@@ -1,4 +1,4 @@
-# fantasic
+# VueJS Project Progress Tracking 
 
 ## Project setup
 ```
