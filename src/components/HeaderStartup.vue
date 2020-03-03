@@ -103,6 +103,10 @@ export default {
 </script>
 
 <style>
+.navbar {
+  background-color: #6610f2;
+}
+  
 @media (max-width:629px) {
   .mobile {
     display: none;
